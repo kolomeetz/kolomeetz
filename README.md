@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm product engineer, living in Dublin and currently working in [Intercom](https://intercom.com).
+
 <!--
 **kolomeetz/kolomeetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
